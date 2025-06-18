@@ -1,0 +1,9 @@
+[package]
+name = "hyprzoom"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ashpd = "0.11.0"
+futures-util = "0.3.31"
+tokio = { version = "1.45.1", features = ["rt", "macros"] }
