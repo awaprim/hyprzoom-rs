@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Hyprzoom
+Exec=/bin/bash
+Icon=applications-system
+Terminal=false
+Categories=Utility;

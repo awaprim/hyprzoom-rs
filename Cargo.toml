@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-ashpd = "0.11.0"
+ashpd = { version = "0.13.11", features = ["global_shortcuts"] }
 futures-util = "0.3.31"
 tokio = { version = "1.45.1", features = ["rt", "macros"] }
